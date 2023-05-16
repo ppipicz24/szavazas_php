@@ -26,7 +26,6 @@
 [x] Admin funkció: a szavazólap létrehozásánál be lehet állítani, hogy az opciókból egyet vagy többet tudjon a kitöltő kiválasztani (radio vagy checkbox) (1 pont)
 [x] Admin funkció: meglévő szavazólap törlése admin felhasználóval (1 pont)
 [x] Szavazóoldal: a szavazóoldalon látszik, hogy egy szavazólapon egy vagy több dologra tudunk szavazni; és ha lehet többre, több dologra is le tudjuk adni a szavazatunkat, amely helyesen el is tárolódik (2 pont)
-[ ] **Késés: -0,5 pont / megkezdett nap!**
 
 ## Plusz feladatok (plusz 5 pont)
 
