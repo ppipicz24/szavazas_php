@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@admin.hu",
+        "password": "admin",
+        "isAdmin": true
+    },
+    {
+        "username": "pip",
+        "email": "pip@pip.hu",
+        "password": "pip",
+        "isAdmin": false
+    },
+    {
+        "username": "alma",
+        "email": "alma@alma.hu",
+        "password": "alma",
+        "isAdmin": false
+    }
+]

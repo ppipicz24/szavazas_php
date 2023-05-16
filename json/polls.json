@@ -1,0 +1,74 @@
+{
+    "admin": {
+        "1": {
+            "id": 1,
+            "question": "Melyik a kedvenc sz\u00edned?",
+            "options": [
+                "piros",
+                "kék",
+                "z\u00f6ld",
+                "s\u00e1rga",
+                "lila",
+                "nincs"
+
+            ],
+            "isMultiple": false,
+            "createdAt": "2022-12-04",
+            "deadline": "2022-12-12",
+            "answers": {
+                "piros": 0,
+                "kék": 0,
+                "z\u00f6ld": 0,
+                "s\u00e1rga": 0,
+                "lila": 0,
+                "nincs": 0
+            },
+            "voted": [
+                "userid1",
+                "userid2"
+            ]
+        },
+        "2": {
+            "id": 2,
+            "question": "Édes vagy sós?",
+            "options": [
+                "édes",
+                "sós"
+            ],
+            "isMultiple": false,
+            "createdAt": "2023-01-08",
+            "deadline": "2023-11-11",
+            "answers": {
+                "édes": 0,
+                "sós": 0
+            },
+            "voted": [
+                "admin"
+            ]
+        },
+        "3": {
+            "id": 3,
+            "question": "Miért szereted a kutyákat?",
+            "options": [
+                "Cukik",
+                "Szeretnek",
+                "Puhák",
+                "Csak úgy"
+            ],
+            "isMultiple": true,
+            "createdAt": "2023-01-12",
+            "deadline": "2024-12-13",
+            "answers": {
+                "Cukik": 0,
+                "Szeretnek": 0,
+                "Puhák": 0,
+                "Csak úgy": 0
+            },
+            "voted": [
+                "userid1",
+                "userid2",
+                "userid3"
+            ]
+        }
+    }
+}
